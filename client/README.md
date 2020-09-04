@@ -34,4 +34,6 @@ To get started and know better here is the list of the features build inside thi
 
 5.   npm start
 
+### Server
 
+1. Static data from mocky.io url : https://run.mocky.io/v3/fe1b2cd7-9fe2-4a27-accf-922761076aab
