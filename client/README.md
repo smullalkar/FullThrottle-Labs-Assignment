@@ -9,7 +9,7 @@ periods of activity for different days using a calendar.
 <br>
 <br>
 <a href = "https://fullthrottleassignment.smullalkar.vercel.app/">
-  <button style = "background:red,padding:5px">Demo Link</button>
+  <button style = "background:red,padding:5px">Demo Link of the assignment</button>
 </a>
 
 To get started and know better here is the list of the features build inside this application
