@@ -45,7 +45,9 @@ export default class Modal extends Component {
                         <div className='row'>
                             <div className='col-12'>
                                 <h6>Name of the user : {userDetails.real_name}</h6>
+                                <br/>
                                 <hr />
+                                <br/>
                                 <div>Select a date :
                                 <DatePicker
                                         className='ml-3'
