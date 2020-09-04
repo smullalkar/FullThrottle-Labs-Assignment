@@ -32,7 +32,9 @@ To get started and know better here is the list of the features build inside thi
 
 4.   npm install axios
 
-5.   npm start
+5.   npm install uuidv4
+
+6.   npm start
 
 ### Server
 
