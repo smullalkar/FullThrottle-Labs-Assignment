@@ -15,10 +15,10 @@ periods of activity for different days using a calendar.
 To get started and know better here is the list of the features build inside this application
 
 1.Dashboard where you will get the list of all the users.
-<p> <img src  = "/FullThrottle-Labs-Assignment/client/public/Home.png"> </p>
+<p> <img src  = "/client/public/Home.png"> </p>
 
 2.Modal showing details of the time ranges when user was active, after clicking on the user.
-<p> <img src  = "/FullThrottle-Labs-Assignment/client/public/Modal.png"> </p>
+<p> <img src  = "/client/public/Modal.png"> </p>
 
 ## Getting Started Follow this simple steps to start using this application
 
